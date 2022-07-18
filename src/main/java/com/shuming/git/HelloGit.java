@@ -7,18 +7,17 @@ public class HelloGit {
 	System.out.println("更新1");
 
 	System.out.println("主干添加");
-<<<<<<< HEAD
-=======
 
->>>>>>> branch 'master' of https://github.com/shuming2022/web01.git
+
+ //github.com/shuming2022/web01.git
 	System.out.println("分支添加");
 
 	System.out.println(" 创建分支");
-<<<<<<< HEAD
+
 	System.out.println(" 第二次提交");
-=======
+
 	System.out.println(" 在线添加");	
->>>>>>> branch 'master' of https://github.com/shuming2022/web01.git
+//github.com/shuming2022/web01.git
 	}
 
 }
